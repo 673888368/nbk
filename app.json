@@ -12,7 +12,7 @@
     },
     "UUID": {
       "description": "用户的主ID",
-      "value": "24b4b1e1-7a89-45f6-858c-242cf53b5bdb",
+      "value": "creae a new one UUID",
       "required": false
     },
     "WS_PATH": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/jdloes/v2ray-heroku",
-  "repository": "https://github.com/jdloes/heroku",
+  "website": "https://github.com/673888368/nbk",
+  "repository": "https://github.com/673888368/nbk",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
