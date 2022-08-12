@@ -1,8 +1,8 @@
 ﻿{
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "nodes by myself",
+  "description": "nodes by myself",
   "keywords": [
-    "v2ray VMess VLESS"
+    "nodes by myself"
   ],
   "env": {
     "PROTOCOL": {
